@@ -1,0 +1,1 @@
+Simple Spring Project to demonstrate use of Roo, Gemfire and Postgres.
