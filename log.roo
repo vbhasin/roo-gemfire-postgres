@@ -27,3 +27,6 @@ perform tests
 web mvc setup
 web mvc all --package ~.web
 // Spring Roo 1.2.1.RELEASE [rev 6eae723] log closed at 2012-04-11 16:16:01
+// Spring Roo 1.2.1.RELEASE [rev 6eae723] log opened at 2012-04-11 16:45:18
+dependency add --groupId postgresql --artifactId postgresql --version 9.0-801.jdbc3
+persistence setup --database POSTGRES --provider HIBERNATE --databaseName myproject --userName postgres --password postgres
